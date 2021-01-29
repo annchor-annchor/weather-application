@@ -1,0 +1,34 @@
+body {
+	background-color: #1a508b;
+	color: #fff3e6;
+	font-family: "Montserrat";
+	font-size: 1rem;
+	margin: 15% 20% 0%;
+	text-align: center;
+}
+h1 {
+	font-size: 3.5rem;
+	font-family: "Caveat";
+	margin-bottom: 5%;
+	text-shadow: 3px 1px 0 #0d335d;
+}
+input {
+	border-radius: 10px;
+	border: 2px solid #1a508b;
+	font-family: "Montserrat";
+	font-size: 1rem;
+}
+button {
+	background-color: #0d335d;
+	border-radius: 10px;
+	border: 2px solid #1a508b;
+	color: #fff3e6;
+	font-family: "Montserrat";
+	font-size: 1rem;
+	font-weight: bold; 
+}
+button:hover {
+	background-color: #c0e218;
+	box-shadow: 0 5px 10px 0px rgba(0,0,0,0.24);
+	color: #557174;
+}
